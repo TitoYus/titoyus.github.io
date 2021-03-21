@@ -10,9 +10,9 @@
             <descripcion>Primer Ejercicio Del Tema</descripcion>
         </item>
         <item>
-            <title></title>
-            <link></link>
-            <descripcion></descripcion>
+            <title>Ejercicio 3</title>
+            <link>https://titoyus.github.io/asignaturas/lm/xml/Ejercicio1.xml</link>
+            <descripcion>Segundo Ejercicio Del Tema</descripcion>
         </item>
     </channel>
 </rss>
