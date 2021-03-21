@@ -2,12 +2,12 @@
 <rss version="2.0">
     <channel>
         <title>Canal RSS: Rafa Yuste</title>
-        <link>https://titoyus.github.io/asignaturas/lm/tema5/index.html</link>
+        <link>https://titoyus.github.io</link>
         <descripcion>Ejercicios XML</descripcion>
         <item>
             <title>Ejercicio 1</title>
-            <link></link>
-            <descripcion></descripcion>
+            <link>https://titoyus.github.io/asignaturas/lm/xml/Ejercicio1.xml</link>
+            <descripcion>Primer Ejercicio Del Tema</descripcion>
         </item>
         <item>
             <title></title>
