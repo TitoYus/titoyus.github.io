@@ -8,12 +8,12 @@
         <item>
             <title>Ejercicio 1</title>
             <link>https://titoyus.github.io/asignaturas/lm/xml/Ejercicio1.xml</link>
-            <descripcion>Primer Ejercicio Del Tema</descripcion>
+            <description>Primer Ejercicio Del Tema</description>
         </item>
         <item>
             <title>Ejercicio 3</title>
             <link>https://titoyus.github.io/asignaturas/lm/xml/Ejercicio3.xml</link>
-            <descripcion>Segundo Ejercicio Del Tema</descripcion>
+            <description>Segundo Ejercicio Del Tema</description>
         </item>
     </channel>
 </rss>
