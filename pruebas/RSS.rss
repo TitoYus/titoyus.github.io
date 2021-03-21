@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS: Rafa Yuste</title>
+        <link></link>
+        <descripcion>Ejercicios XML</descripcion>
+        <item>
+            <title></title>
+            <link></link>
+            <descripcion></descripcion>
+        </item>
+        <item>
+            <title></title>
+            <link></link>
+            <descripcion></descripcion>
+        </item>
+    </channel>
+</rss>
