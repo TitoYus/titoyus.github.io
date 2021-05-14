@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.xsl" type="text/xsl"?>
+<?xml-model href="ejercicio2.xsd"?>
+<horario>
+    <lunes>
+        <primera>bdd</primera>
+        <segunda>bdd</segunda>
+        <tercera>lm</tercera>
+        <cuarta>lm</cuarta>
+        <quinta>eed</quinta>
+        <sexta>eed</sexta>
+    </lunes>
+    <martes>
+        <primera>si</primera>
+        <segunda>si</segunda>
+        <tercera>prog</tercera>
+        <cuarta>prog</cuarta>
+        <quinta>eed</quinta>
+        <sexta>fol</sexta>
+    </martes>
+    <miercoles>
+        <primera>prog</primera>
+        <segunda>prog</segunda>
+        <tercera>lm</tercera>
+        <cuarta>lm</cuarta>
+        <quinta>si</quinta>
+        <sexta>si</sexta>
+    </miercoles>
+    <jueves>
+        <primera>si</primera>
+        <segunda>si</segunda>
+        <tercera>bdd</tercera>
+        <cuarta>bdd</cuarta>
+        <quinta>prog</quinta>
+        <sexta>prog</sexta>
+    </jueves>
+    <viernes>
+        <primera>prog</primera>
+        <segunda>prog</segunda>
+        <tercera>bdd</tercera>
+        <cuarta>bdd</cuarta>
+        <quinta>fol</quinta>
+        <sexta>fol</sexta>
+    </viernes>
+</horario>

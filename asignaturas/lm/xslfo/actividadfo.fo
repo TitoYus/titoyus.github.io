@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+   <fo:layout-master-set>
+       <fo:simple-page-master master-name="hola"
+                          page-height="29.7cm"
+                          page-width="21cm"
+                          margin-top="5mm"
+                          margin-bottom="10mm"
+                          margin-left="20mm"
+                          margin-right="20mm">
+           <fo:region-body margin-top="10mm" margin-bottom="10mm" />
+       </fo:simple-page-master>
+   </fo:layout-master-set>
+ 
+   <fo:page-sequence master-reference="hola">
+       <fo:flow>
+           <fo:block>Hola, mundo</fo:block>
+       </fo:flow>
+   </fo:page-sequence>
+</fo:root>

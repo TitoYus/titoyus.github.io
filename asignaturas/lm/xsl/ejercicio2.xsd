@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="horario">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="lunes">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="primera" type="xs:string" />
+                            <xs:element name="segunda" type="xs:string" />
+                            <xs:element name="tercera" type="xs:string" />
+                            <xs:element name="cuarta" type="xs:string" />
+                            <xs:element name="quinta" type="xs:string" />
+                            <xs:element name="sexta" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="martes">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="primera" type="xs:string" />
+                            <xs:element name="segunda" type="xs:string" />
+                            <xs:element name="tercera" type="xs:string" />
+                            <xs:element name="cuarta" type="xs:string" />
+                            <xs:element name="quinta" type="xs:string" />
+                            <xs:element name="sexta" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="miercoles">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="primera" type="xs:string" />
+                            <xs:element name="segunda" type="xs:string" />
+                            <xs:element name="tercera" type="xs:string" />
+                            <xs:element name="cuarta" type="xs:string" />
+                            <xs:element name="quinta" type="xs:string" />
+                            <xs:element name="sexta" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="jueves">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="primera" type="xs:string" />
+                            <xs:element name="segunda" type="xs:string" />
+                            <xs:element name="tercera" type="xs:string" />
+                            <xs:element name="cuarta" type="xs:string" />
+                            <xs:element name="quinta" type="xs:string" />
+                            <xs:element name="sexta" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="viernes">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="primera" type="xs:string" />
+                            <xs:element name="segunda" type="xs:string" />
+                            <xs:element name="tercera" type="xs:string" />
+                            <xs:element name="cuarta" type="xs:string" />
+                            <xs:element name="quinta" type="xs:string" />
+                            <xs:element name="sexta" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
