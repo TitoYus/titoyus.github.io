@@ -15,5 +15,10 @@
             <link>https://titoyus.github.io/asignaturas/lm/xml/Ejercicio3.xml</link>
             <description>Segundo Ejercicio Del Tema</description>
         </item>
+        <item>
+            <title>ERP</title>
+            <link>https://view.genial.ly/608fbcba04d1720d91a03292/interactive-content-sistemas-erp</link>
+            <description>Trabajo sobre ERP</description>
+        </item>
     </channel>
 </rss>
